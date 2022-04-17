@@ -1,0 +1,7 @@
+[2022-04-15 22:29:36.760] [main] [info] window#load: attempt to load window (id: 1)
+[2022-04-15 22:29:36.776] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-04-15 22:29:36.811] [main] [info] ExtensionHostStarterWorker created
+[2022-04-15 22:29:37.974] [main] [info] window#load: window reported ready (id: 1)
+[2022-04-15 22:29:38.340] [main] [info] Starting extension host with pid 2900 (fork() took 38 ms).
+[2022-04-15 22:29:38.341] [main] [info] ExtensionHostStarterWorker.start() took 41 ms.
+[2022-04-15 22:30:27.097] [main] [info] Extension host with pid 2900 exited with code: null, signal: SIGTERM.

@@ -1,0 +1,4 @@
+ulauncher
+spotify
+tvenv
+google-chrome

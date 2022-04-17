@@ -1,0 +1,39 @@
+2022/04/16-14:44:05.169 3 Reusing MANIFEST /home/lukasz/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/04/16-14:44:05.198 3 Recovering log #21
+2022/04/16-14:44:05.199 3 Reusing old log /home/lukasz/.config/chromium/Default/Local Storage/leveldb/000021.log 
+2022/04/16-14:55:53.635 c Level-0 table #25: started
+2022/04/16-14:55:53.641 c Level-0 table #25: 103921 bytes OK
+2022/04/16-14:55:53.645 c Delete type=0 #21
+2022/04/16-14:55:53.645 c Compacting 4@0 + 1@1 files
+2022/04/16-14:55:53.650 c Generated table #26@0: 80 keys, 130106 bytes
+2022/04/16-14:55:53.650 c Compacted 4@0 + 1@1 files => 130106 bytes
+2022/04/16-14:55:53.653 c compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/04/16-14:55:53.654 c Delete type=2 #25
+2022/04/16-14:55:53.654 c Delete type=2 #17
+2022/04/16-14:55:53.654 c Delete type=2 #14
+2022/04/16-14:55:53.655 c Delete type=2 #19
+2022/04/16-14:55:53.655 c Delete type=2 #22
+2022/04/16-14:55:59.339 8 Level-0 table #28: started
+2022/04/16-14:55:59.348 8 Level-0 table #28: 99799 bytes OK
+2022/04/16-14:55:59.351 8 Delete type=0 #24
+2022/04/16-14:56:18.444 c Level-0 table #30: started
+2022/04/16-14:56:18.451 c Level-0 table #30: 212698 bytes OK
+2022/04/16-14:56:18.455 c Delete type=0 #27
+2022/04/16-14:56:39.892 8 Level-0 table #32: started
+2022/04/16-14:56:39.899 8 Level-0 table #32: 44116 bytes OK
+2022/04/16-14:56:39.905 8 Delete type=0 #29
+2022/04/16-14:59:05.572 e Level-0 table #34: started
+2022/04/16-14:59:05.583 e Level-0 table #34: 103674 bytes OK
+2022/04/16-14:59:05.587 e Delete type=0 #31
+2022/04/16-14:59:05.588 e Compacting 4@0 + 1@1 files
+2022/04/16-14:59:05.603 e Generated table #35@0: 109 keys, 386392 bytes
+2022/04/16-14:59:05.603 e Compacted 4@0 + 1@1 files => 386392 bytes
+2022/04/16-14:59:05.607 e compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/04/16-14:59:05.609 e Delete type=2 #34
+2022/04/16-14:59:05.609 e Delete type=2 #30
+2022/04/16-14:59:05.609 e Delete type=2 #26
+2022/04/16-14:59:05.609 e Delete type=2 #32
+2022/04/16-14:59:05.610 e Delete type=2 #28
+2022/04/16-15:00:09.895 e Level-0 table #37: started
+2022/04/16-15:00:09.899 e Level-0 table #37: 100499 bytes OK
+2022/04/16-15:00:09.903 e Delete type=0 #33

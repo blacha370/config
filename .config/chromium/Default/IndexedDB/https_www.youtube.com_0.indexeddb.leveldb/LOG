@@ -1,0 +1,3 @@
+2022/04/16-14:39:31.131 468 Reusing MANIFEST /home/lukasz/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/16-14:39:31.132 468 Recovering log #3
+2022/04/16-14:39:31.137 468 Reusing old log /home/lukasz/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 

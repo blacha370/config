@@ -1,0 +1,15 @@
+[2022-04-15 22:29:39.276] [sharedprocess] [info] Starting worker process with pid 2937 (type: fileWatcher, window: 1).
+[2022-04-15 22:29:41.712] [sharedprocess] [info] Getting Manifest... ms-vscode.js-debug-companion
+[2022-04-15 22:29:41.714] [sharedprocess] [info] Getting Manifest... ms-vscode.references-view
+[2022-04-15 22:29:42.649] [sharedprocess] [info] Installing extension: ms-vscode.js-debug-companion
+[2022-04-15 22:29:42.655] [sharedprocess] [info] Installing extension: ms-vscode.references-view
+[2022-04-15 22:29:43.379] [sharedprocess] [info] Downloaded extension: ms-vscode.js-debug-companion /home/lukasz/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.js-debug-companion-1.0.17
+[2022-04-15 22:29:43.393] [sharedprocess] [info] Downloaded extension: ms-vscode.references-view /home/lukasz/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.references-view-0.0.89
+[2022-04-15 22:29:43.412] [sharedprocess] [info] Extracted extension to /home/lukasz/.vscode-oss/extensions/.baaf6c3e-4885-4464-bb16-bc1048ffade6: ms-vscode.js-debug-companion
+[2022-04-15 22:29:43.414] [sharedprocess] [info] Extracted extension to /home/lukasz/.vscode-oss/extensions/.7961decd-8486-47af-8d46-10c94a91c131: ms-vscode.references-view
+[2022-04-15 22:29:43.417] [sharedprocess] [info] Renamed to /home/lukasz/.vscode-oss/extensions/ms-vscode.js-debug-companion-1.0.17
+[2022-04-15 22:29:43.419] [sharedprocess] [info] Extracting completed. ms-vscode.js-debug-companion
+[2022-04-15 22:29:43.420] [sharedprocess] [info] Renamed to /home/lukasz/.vscode-oss/extensions/ms-vscode.references-view-0.0.89
+[2022-04-15 22:29:43.420] [sharedprocess] [info] Extracting completed. ms-vscode.references-view
+[2022-04-15 22:29:43.423] [sharedprocess] [info] Extension installed successfully: ms-vscode.js-debug-companion
+[2022-04-15 22:29:43.427] [sharedprocess] [info] Extension installed successfully: ms-vscode.references-view

@@ -1,0 +1,272 @@
+{
+   "checksum": "109a1aed9f0980d2669b0d37a584328f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13240524222360036",
+            "guid": "fc71937e-aa78-4054-b210-e958e7f8726a",
+            "id": "5",
+            "name": "Learning Path : Your mentor to become a machine learning expert",
+            "type": "url",
+            "url": "https://www.analyticsvidhya.com/learning-path-learn-machine-learning/"
+         }, {
+            "date_added": "13252364273640427",
+            "guid": "5a626ca0-23ac-4173-a06b-c59edde9107d",
+            "id": "6",
+            "name": "Quicksort - Wikipedia",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Quicksort"
+         }, {
+            "date_added": "13252855701225871",
+            "guid": "e7e6f7ac-e485-4c52-b10f-6fafa9bef4eb",
+            "id": "7",
+            "name": "Instrukcja dla Studentów – Egzaminy Online – FAQ czyli najczęściej zadawane pytania",
+            "type": "url",
+            "url": "https://faq.ci.ue.katowice.pl/?p=2653&lang=pl"
+         }, {
+            "date_added": "13253662756915907",
+            "guid": "5ef8c2dd-fadd-4bbb-bfe0-c4bf62f5128f",
+            "id": "8",
+            "name": "Just Join IT: #1 Job Board for IT industry in Poland",
+            "type": "url",
+            "url": "https://justjoin.it/offers/boring-owl-python-back-end-developer"
+         }, {
+            "date_added": "13256680817237682",
+            "guid": "5dd9ed46-0360-4a89-b4ed-e14170eb4937",
+            "id": "9",
+            "name": "Quickstart: Compose and Django | Docker Documentation",
+            "type": "url",
+            "url": "https://docs.docker.com/compose/django/"
+         }, {
+            "date_added": "13275657318846010",
+            "guid": "6efe8408-b055-488a-93b3-b04c0f9f26ea",
+            "id": "10",
+            "name": "The Best Tailored Derm-Grade Retinoid and Retinol Serums and Creams - Dear Brightly",
+            "type": "url",
+            "url": "http://localhost:8080/register"
+         }, {
+            "date_added": "13275743833295877",
+            "guid": "8654c2a1-6002-49aa-9e00-64ad820c68c1",
+            "id": "11",
+            "name": "Task/dear 45 recreate /customers/UUID patch endpoint by fiedosiukr · Pull Request #987 · dearbrightly/dearbrightly",
+            "type": "url",
+            "url": "https://github.com/dearbrightly/dearbrightly/pull/987"
+         }, {
+            "date_added": "13275990773787617",
+            "guid": "fb12613e-9828-4a2a-9d67-7afa42d6d8e1",
+            "id": "12",
+            "name": "Network Requests | Cypress Documentation",
+            "type": "url",
+            "url": "https://docs.cypress.io/guides/guides/network-requests#Assertions"
+         }, {
+            "date_added": "13276014434176362",
+            "guid": "c70f7692-9de0-4327-becd-31ac771f3f3b",
+            "id": "13",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13280362024257284",
+            "guid": "7897dcef-c9a1-49f7-8486-b9c26c6317fa",
+            "id": "14",
+            "name": "Linux File System/Structure Explained! - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=HbgzrKJvDRw"
+         }, {
+            "date_added": "13280362081094996",
+            "guid": "e9a7d2c3-2c9b-4cc4-8cef-5acefa5da203",
+            "id": "15",
+            "name": "Bash scripting cheatsheet",
+            "type": "url",
+            "url": "https://devhints.io/bash"
+         }, {
+            "date_added": "13280362113177509",
+            "guid": "bb04731f-bc25-491d-be23-a32d893f11b8",
+            "id": "16",
+            "name": "Bash Scripting Tutorial for Beginners - Linux Tutorials - Learn Linux Configuration",
+            "type": "url",
+            "url": "https://linuxconfig.org/bash-scripting-tutorial-for-beginners"
+         }, {
+            "date_added": "13282253238751488",
+            "guid": "1912a635-4753-4a44-b853-baa696bd8fd0",
+            "id": "17",
+            "name": "Dokument bez tytułu - Dokumenty Google",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1TZR7Y2_44Zh1O5lP-eBkLTQqgNWzQSDkx0Pc4A9PqsE/edit"
+         }, {
+            "date_added": "13282265586430229",
+            "guid": "358f726b-44cf-4f59-bd66-f3cf515c4cd1",
+            "id": "18",
+            "name": "IAM user",
+            "type": "url",
+            "url": "https://signin.aws.amazon.com/oauth?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Ffromtb%3Dtrue%26hashArgs%3D%2523%26isauthcode%3Dtrue%26state%3DhashArgsFromTB_us-east-1_4417911598c7b504&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&response_type=code&iam_user=true&account=387111258777&code_challenge=Dq6ySLFPwdcx6Z7jplA2BZLHnG8GKPITOb9HRIIVkJw&code_challenge_method=SHA-256"
+         }, {
+            "date_added": "13282530431932744",
+            "guid": "850e6710-fdf3-4a37-afad-8d09a89f3899",
+            "id": "19",
+            "name": "Just Join IT: #1 Job Board for IT industry in Poland",
+            "type": "url",
+            "url": "https://justjoin.it/offers/connectpoint-junior-devops-engineer"
+         }, {
+            "date_added": "13282530437734625",
+            "guid": "c6ac3148-a30d-493d-81e6-a486f3a204c0",
+            "id": "20",
+            "name": "Just Join IT: #1 Job Board for IT industry in Poland",
+            "type": "url",
+            "url": "https://justjoin.it/offers/devopsity-sp-z-o-o-devops-engineer-junior-gdynia"
+         }, {
+            "date_added": "13282530444317531",
+            "guid": "cc4604a2-83aa-47f6-91a8-f5aa06b4f0bd",
+            "id": "21",
+            "name": "Just Join IT: #1 Job Board for IT industry in Poland",
+            "type": "url",
+            "url": "https://justjoin.it/offers/bluesoft-szkola-aws-junior-aws-cloud-engineer"
+         }, {
+            "date_added": "13282530450414762",
+            "guid": "6590a45e-08e0-4d4b-9c9e-02bc2e618f66",
+            "id": "22",
+            "name": "Just Join IT: #1 Job Board for IT industry in Poland",
+            "type": "url",
+            "url": "https://justjoin.it/offers/sofomo-aws-devops-engineer-remote-wroclaw"
+         }, {
+            "date_added": "13282530454318957",
+            "guid": "928cdb00-78fb-4dd7-8dbd-e8dfe68645e7",
+            "id": "23",
+            "name": "Just Join IT: #1 Job Board for IT industry in Poland",
+            "type": "url",
+            "url": "https://justjoin.it/offers/qualityminds-devops-engineer"
+         }, {
+            "date_added": "13282530460550057",
+            "guid": "85bc73b1-45b0-4bf8-9ad1-cb9a97b5f992",
+            "id": "24",
+            "name": "Just Join IT: #1 Job Board for IT industry in Poland",
+            "type": "url",
+            "url": "https://justjoin.it/offers/landingi-sp-z-o-o-junior-devops-sre"
+         }, {
+            "date_added": "13282530465891674",
+            "guid": "8dc41d41-39d8-491b-bd6f-ab1fe3470370",
+            "id": "25",
+            "name": "Praca Junior DevOps Engineer | DevOps | BigPicture | Zdalna | No Fluff Jobs",
+            "type": "url",
+            "url": "https://nofluffjobs.com/pl/job/junior-devops-engineer-bigpicture-remote-zicdsb6e"
+         }, {
+            "date_added": "13282530472803587",
+            "guid": "138a7f99-641d-44f7-9a12-e8794b5cf6f2",
+            "id": "26",
+            "name": "Praca Junior DevOps Engineer | DevOps | Synerise | Zdalna | No Fluff Jobs",
+            "type": "url",
+            "url": "https://nofluffjobs.com/pl/job/junior-devops-engineer-synerise-remote-1xv8bg3w"
+         }, {
+            "date_added": "13282849748146735",
+            "guid": "4acd102e-3a1e-4a1c-a4b5-0b6fb49b947e",
+            "id": "27",
+            "name": "Installation — Homebrew Documentation",
+            "type": "url",
+            "url": "https://docs.brew.sh/Installation"
+         }, {
+            "date_added": "13288301386618905",
+            "guid": "9a7c1553-439f-4b89-ae92-007e54ca8b25",
+            "id": "28",
+            "name": "Pipelines - netguru/All",
+            "type": "url",
+            "url": "https://app.circleci.com/pipelines/github/netguru?filter=mine"
+         }, {
+            "date_added": "13294535863609805",
+            "guid": "9f7e9c65-48b6-4838-9328-91f48234aa2d",
+            "id": "29",
+            "name": "§",
+            "type": "url",
+            "url": "https://wiki.mikrotik.com/wiki/Manual:CHR"
+         } ],
+         "date_added": "13294587889130099",
+         "date_modified": "13294535863609805",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13294587889130101",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13242382295358004",
+            "guid": "86f4d88a-c839-458d-bd2f-d3ab0a430a4b",
+            "id": "30",
+            "name": "GitHub - tuvtran/project-based-learning: Curated list of project-based tutorials",
+            "type": "url",
+            "url": "https://github.com/tuvtran/project-based-learning#python"
+         }, {
+            "date_added": "13248874974965401",
+            "guid": "02110dad-62f7-45bd-bf36-f8da5001df8d",
+            "id": "31",
+            "name": "Podstawy fizyki Tom 1 - David Halliday, Robert Resnick, Jearl Walker (Książka) - Księgarnia PWN",
+            "type": "url",
+            "url": "https://ksiegarnia.pwn.pl/Podstawy-fizyki-Tom-1,84907634,p.html"
+         }, {
+            "date_added": "13248993643818405",
+            "guid": "ecffaa33-11b2-4f80-858a-e8aad71a9a7b",
+            "id": "32",
+            "name": "The Ultimate Beginner’s Guide to NumPy | by Anne Bonner | Towards Data Science",
+            "type": "url",
+            "url": "https://towardsdatascience.com/the-ultimate-beginners-guide-to-numpy-f5a2f99aef54"
+         }, {
+            "date_added": "13249248171382387",
+            "guid": "441d7579-ae87-4ca4-bfd6-7c81a8433b35",
+            "id": "33",
+            "name": "Intro to Descriptive Statistics - Udacity",
+            "type": "url",
+            "url": "https://classroom.udacity.com/courses/ud827/lessons/1293178557/concepts/19610485690923"
+         }, {
+            "date_added": "13266408089347055",
+            "guid": "12e7bb73-c2b3-439f-9dc2-8827ddda8c27",
+            "id": "34",
+            "name": "Just Join IT: #1 Job Board for IT industry in Poland",
+            "type": "url",
+            "url": "https://justjoin.it/offers/link-group-junior-python-developer"
+         }, {
+            "date_added": "13268177763143468",
+            "guid": "f61ea401-2e5b-4052-8ab4-bfdf52aea012",
+            "id": "35",
+            "name": "Just Join IT: #1 Job Board for IT industry in Poland",
+            "type": "url",
+            "url": "https://justjoin.it/offers/stx-next-junior-python-developer-a7b1b9ea-338b-4cf7-a64e-15fb28eb6827"
+         }, {
+            "date_added": "13268519464316927",
+            "guid": "470fd905-2f7a-4c8a-86fb-dc032579e13a",
+            "id": "36",
+            "name": "Nowa karta",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13269605553998828",
+            "guid": "e6825df1-2441-4dcf-adac-f74242c9ba1e",
+            "id": "37",
+            "name": "Praca Jr Django Developer ➤ Backend ➤ Integree ➤ zdalna | No Fluff Jobs",
+            "type": "url",
+            "url": "https://nofluffjobs.com/pl/job/jr-django-developer-integree-remote-qdzmc86r"
+         }, {
+            "date_added": "13270999247646645",
+            "guid": "ad0be82b-fe37-4475-8d4b-7cddf022fd93",
+            "id": "38",
+            "name": "User Wallet Address Api – Django REST framework",
+            "type": "url",
+            "url": "http://127.0.0.1:8000/api/connect/"
+         } ],
+         "date_added": "13294587889130103",
+         "date_modified": "13270999247646645",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CtcBCrYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJgF4sIMXcBQAhgF4sIMXcBQAiFAl2yQwvxdwFABAIGcu9oYBgO5CyMhgKFggCER9Q9y/F3AUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmAXiwgxdwFACGAXiwgxdwFADIYChYIAhEfUPcvxdwFABgAIQAAAAAAAAAAIABIl73rk4MwcJPB6pODMCoOEAAYASAAKAAwADgAQAASACABKhhqMkMwd0RyRGphZExvY2gwWTVtVkdnPT0SqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5WFFraHpkZVBHWUdtby9KUEFzVzRPZGZFcDNiay9NbG9Lc2xCekgrSVBwNHlTeExBZk1zVk01NnRPeEYzdmhTdXVqekRVGAAgACgAMPi48vbSmPcCOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASrgIIBRKpAgoceU1qKzdad1piYThzT0d4endvWlRFaWw2QnBFPRKmAVo6QURxdEFaeFZkK0dEb29BY01lTzVDWW9WODQ4c2RHSWg1bFdEeGs3U1JvVjlUaVA4VWgxcG1ha2tYOXIwa00zSE5ZRTN3K1lOclNUdkRod2NZVlhvK3J2VlNTdEJJa3kvUjNSOGhycXFHdVlaY1FDcWVIM20zTHA4WmFJREVrVGJrcHF5ZEttVGVkSy9ObVYrNmFqcGg5R2xSdmNLVkl5eENBPT0YACACKAIw9ZKz+NKY9wI4u6mF79EuQLfF6pODMEocR0JRalEyeDVEODJsMU96a1Vla1dMRHJVWHpRPVogIh7/6nF4L2xSYWFoL1dMRk1YQmZOdzl2SHA5bC9mcz1lIW1qshKuAggIEqkCChxtQkJuazhGNEdMU2UvdkRaODBSL05IZk9lMTg9EqYBWjpBRHF0QVp4VmQrR0Rvb0FjTWVPNUNZb1Y4NDhzZEdJaDVsV0R4azdTUm9WOVRpUDhVbXpoZ2JhdWE1QnN3ZHYyUThuQWVUOUFnbE1oL2JISXc5ZHRDQitVMncrOXN0RDczRGFtMEI5aDhqQnhNRGJsZ0hlNklTNkUvSzk0bnd0aE1MRndrekVhSW1KTk5Tb0tibVZobmQvUXZKN1ZpRUpqZkE9PRgAIAIoAjD1krP40pj3Aji10JfZ6i5AuMXqk4MwShxESUVOVFl2SFhBajJwVUEyWHFobWlJc1JvRWc9WiAiHv/+ZDBsOURuRVkrc3VRaVNXK1hhZlByam1YeTBrPWXya0loEvQBCBsS7wEKHGhZM3hOOEpkcmZBd2pDRVBmWmpTZld2VENsVT0SZlo6QURxdEFaeXFjTW5RSjlDMW1iMUUyK3RmYktMZVVOOVJRY3VVajlwdDNNOGxYNXZTNmNBNGtlOVdnRTg2VGRRUUpFb2pYcysvaXkrT0YxaTh5OEd4L3EvWDBCY25vUkw1dkE9PRgAIAAoADC6kMHjloz1AjiymdC21y9AspnQttcvShw2eGFKdktXUGttOHZuM0ZkSWdtNmdIM1NKcjQ9WiciJf////8AAAAEqU5Kb3VUWEk0cDUrZmpONTc2UjVVV3JoL2pwVT1lW4IJixKtAggeEqgCChwzdGlzd3VZek0yR25oMitBUDBaa2Jtak55dkU9EqYBWjpBRHF0QVp4VmQrR0Rvb0FjTWVPNUNZb1Y4NDhzeUpFMEFaR0lQLzN5NTFjUVBlU002bzU3K09kbnEwd01WS1FWaEtxaFpTbklRWWhIeHpMREhLNDZML3hWaXErWVFOYkppUzdTVS9pS09VK2pLQW8yOEUxNTAzUFVJZmFIVWpJVUEvUXI0V2gxd2ZOYzdiVm5XdTZBb3JOUWtYOXJXWTQwSUE9PRgAIAAoADC6kMHjloz1AjjK8p7WwC5AyvKe1sAuShxvTkZ0dC8vZloxMVRNK3QxcVpPamFhRmNvdTQ9Wh8iHfpydDN4SHhhdHpWdEtZNk9KUlplU3oxUFJLWVU9ZSjQ4akSrgIIHxKpAgocS3RzcHduekRSRzRTb09jNEEwaE1YRE1FbkFvPRKmAVo6QURxdEFaeFZkK0dEb29BY01lTzVDWW9WODQ4c2RHSWg1bFdEeGs3U1JvVjlUaVA4VXFxZ1lKNGpjUlkyN25mY2tvSitvdTNrQmJ2RU0wdGZyL0pJZUVvbnAycGgzNU9NNE1wTkFOQUlNa3lEeVUxclVmUE9rd1BEb2lXWmdtY25Ubk9zdTRzQzh3T2xjRzE4NDVub1ZUK1NoU1VoUjNrZlZBPT0YACAAKAAwupDB45aM9QI49c2Y7tguQPXNmO7YLkocVUtieUZ3LzJadHN4bGtDVWhwUUxZckZlRmVzPVogIh7/ulM5TXp5L3JEcmxGWnI5UCt3RW14ZkRBeW80Zz1lTH/5wxLvAQgVEuoBChxKa093bnRrRU5pL2IyMXU5SWVjdTFidFV4VEE9EmZaOkFEcXRBWnlxY01uUUo5QzFtYjFFMit0ZmJLTGVTamc4TXZ6ZlBzTEFwaHg0MURWaXdmMWZyVTJTc3BjRWRiTisxUDU0aXJoYlozaTR1SXFTNWlTZkhPSWxmTEY0dTdGR2hBPT0YACAAKAAwupDB45aM9QI4nbivntYvQJ24r57WL0ocei9udGxEN0ZKUk9NaGxTOTlYSEh3aFR3c2RZPVoiIiD////uZG9ObVpqNW1CWi9Cb2dnTmcrdmU2NXZZZDhzPWUzYdQuEu4BCBES6QEKHDJwL3A0N0ozME9YdWVXS0MyQ0h6ZXNIbWw4cz0SZlo6QURxdEFaeXFjTW5RSjlDMW1iMUUyK3RmYktMZWtxQy9CNFo1ME9MSWpSSnZXaFpuc1NMTWowMTVDMEUwTkc2TGhpcnpEZVBqbFZuZ0JzcDQ5c2tUSlNSSlhuZitHK09adUE9PRgAIAAoADC6kMHjloz1Ajjgk5ia1S9A4JOYmtUvShxMVWpPZ2EzOHJxRWNOdURUek1YaWxHVTJtMkE9WiEiH////0ZnQmJNUER1WFo0blMrS2QzMzNxcGJRUW9mYz1l1UdNNBLuAQgMEukBChx4cDJXdHBpNWlZZlptQUlwWmljUCtoMXExUnc9EmZaOkFEcXRBWnlxY01uUUo5QzFtYjFFMit0ZmJLTGVDOVNyWW1XQVVXck5vL2hZdmJEcU5aYXZkS2p6cXNXQWJqYkoxdkVYM1VHeUEvZUJGYUd5eTlKMm5lSzRGTlRXMU9zWEtRPT0YACAAKAAw7qWbrazC9QI4nNCB8L0vQJzQgfC9L0ocd3FiWEFqYVNoeVJzcXZmYVVlUmtpYit5dFhrPVohIh///+5seVBnOUlxcmw2cFcrTjNWcDlnZGQxRUIxN289ZQwPdk8SrgIIBxKpAgocb0c1Y0pHVFQwSmtLT01nQ2RCUkdEdUc2bVIwPRKmAVo6QURxdEFaeFZkK0dEb29BY01lTzVDWW9WODQ4c2RHSWg1bFdEeGs3U1JvVjlUaVA4VW9WNWZqSTVlUjZqTGFZenhsQkJuclU3UGJ6c2w3RmdvWUJxc1lFZHd6YXJ4c2hSMzI0ZldjaWRWd0FVdVlGL25rUGxzWG00cy9ILzFkV3cydGtuNzF2L2NRcldmaDlXUXNSRTJId3REK0pKM2o4VEZRPT0YACACKAIw9ZKz+NKY9wI46u2s2OcuQLjF6pODMEocUmNVZFdWV3REckErdzBFQ1paWHBvOFExZG80PVogIh7//TQycWVGVXhLTHlsa1NGK2pQTlpIci83T0YrST1lnTwu/hLuAQgQEukBChxwRGRERWtrdjB4MEZBMkFJa0hUd2RTL2M5ZVk9EmZaOkFEcXRBWnlxY01uUUo5QzFtYjFFMit0ZmJLTGVwUk4rMjMrc1lYQ09DemhzSmJkc2VkNE45QU1GMEJnamU1dE9qZ3YzNFpyTEk5QS80NTdnL3VUcnMzOVV6SlBXR3JVTnRBPT0YACAAKAAw7qWbrazC9QI4moG3lM4vQJqBt5TOL0ocZit0R2pjTjN2cS9tSFllZHVWS1VPU1dwRG1jPVohIh////54QXZ2Z09WRnNncms1NFFEd000UEIra0xubmM9ZevIktoS8wEIGhLuAQocN3BGWDhHVkhRNmNRUUU0ZkI5WFErcE9jaDBBPRJmWjpBRHF0QVp5cWNNblFKOUMxbWIxRTIrdGZiS0xlTklOazhTbHBhdVdyRzk5RkIvRlJiNmFDdXJHdUtub1VyTlE1Ly96VDBndzNWNTVyN1VxcVRlaHluVFFyRkQyS200UVFQdz09GAAgACgAMLqQweOWjPUCOOOWsZ7WL0DjlrGe1i9KHDc5WFNmNTJ3eDE1NnNlNDJiSXFXVEwxdWp2dz1aJiIk/////wAAAARSU1VnNXd4MnF4V3NEWENoQ3UvSUVVUEpHUUU9ZRMgDlQS7gEIDhLpAQocNFE2Vk9Qb082RzlxZFJKZURLNzRIMnc4bVlnPRJmWjpBRHF0QVp5cWNNblFKOUMxbWIxRTIrdGZiS0xlYnRqYlBEelkxZWNLVlpjZnJRcUJvWFIrQ051QjdvaGloemJaK1JtY3E0MTlRZ0ZHSnJSNy9rTUlRNzRlMlVvd1ZtNnpQUT09GAAgACgAMO6lm62swvUCOMLKsZTOL0DCyrGUzi9KHGxXcE9OdnpIY212U0RndlMxOGsxZ0FCVDNlND1aISIf///7TmJac3BZY2VIRDE1Q1ZWTDlWZXltS1ZBVXJVPWU4+TkzEq4CCAYSqQIKHGhHSU1ZbHdnT1VmeTVRR1ZXMm5DRHB4aG9ZMD0SpgFaOkFEcXRBWnhWZCtHRG9vQWNNZU81Q1lvVjg0OHNkR0loNWxXRHhrN1NSb1Y5VGlQOFVrU0NBcnRRU0pvSk5TZitWb0xmOWxwWUJTRURVbEdMbTB0NG1TTjhHaHd0bFhmNUhFekttbG82a2hkbjZmbXFWaStVcHRjeGU1TVlXd20xUW9rR0xOa1VzbGNTcDFGN0JXWXdyTnZKSkNEbWlUNTJTQT09GAAgAigCMPWSs/jSmPcCOOm/gu7lLkC4xeqTgzBKHENnRGY0ZEVHQ1VaOE9IMVAyZkprYWtCTkYwcz1aICIe//pTU3RNeWlqbGI1ZUpWOFQ3TmtpVGlNTFFiMDA9ZeEuWRASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp3YVluVzArWTczdnZvT1VzbjRlK2VEWE1DWkdRMWljUmJsZFgyckRjekg0dExxNWlwRnhQZ1U5UmxYSlhmcXA1MW5tMVRaWGdkWitTYTliOUlmcWcvODRUSnJ6Zz09GAAgACgAMPi48vbSmPcCOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS7gEIDxLpAQocQWMzc0QzeUtlcFhvRjBpMWNmdERjbHU2Zm5BPRJmWjpBRHF0QVp5cWNNblFKOUMxbWIxRTIrdGZiS0xlWTl1R2NXZlJ2ZmJwOFl0V3JrNmNpdUZPWVRnQVo4MmJuWlFJT25wc3ZkMFBpNFhhMldVRThrcHJvaTlNTHFuaTRUODBTQT09GAAgACgAMO6lm62swvUCOMeGtZTOL0DHhrWUzi9KHHVpL2gwUGRocmFFRjRVLzNGWml3NUduWmluOD1aISIf///9c0l6L1dyNmF0WGY1ZVRRN2RnVy9JOWE3SHRjPWXCASOyEu8BCBMS6gEKHGtLdkw0ekhiMTBmNW44UE5Fa0REazk2Zkwraz0SZlo6QURxdEFaeXFjTW5RSjlDMW1iMUUyK3RmYktMZUpPTTRqN2Y0ZGExd3QzYzRUNXRHNzc5QVZnSHEydHdMbEhEOEtMMmpjd0cvaXljcC9PQ21zbUhTWURhd09Wa2JXdUpKVVE9PRgAIAAoADC6kMHjloz1Aji8166e1i9AvNeuntYvShw0QUtlaytteEpkdTVJRldtcWZWaTFtS0FjUGc9WiIiIP///7pMZFBMNE5hTmhBcE8wbjlZeTcxQ0JMcXE1Umc9ZTNh1C4S7gEIEhLpAQocQ3R6UElBdXJtZlUxbGJIZDRGdG1waEJscHVJPRJmWjpBRHF0QVp5cWNNblFKOUMxbWIxRTIrdGZiS0xlZytiSUV4WHRrd3NkVjk0NGF5cW03clFrSVlrMWptTEladE1BT05TN3hNbk5mWW8wbnJuK2Z1K1lkUW91b2RXTzd2ZDZlUT09GAAgACgAMLqQweOWjPUCOP7liaDVL0D+5Ymg1S9KHEY5MUx1QXVBWG02TDlCSXorOHJ2ckhsemxkVT1aISIf////dWpEVU5JT3Fkanp5amlha0lOWm5FZWJBRHNVPWWbSKBWEu8BCBQS6gEKHHRYb3oydUJXcXlyK2JZVUVwVU9zOTFBWHJTcz0SZlo6QURxdEFaeXFjTW5RSjlDMW1iMUUyK3RmYktMZUxxUHlLTFB2UUlrOS9pa2hDNkFpd3ZGUFY1NHVKd0FZYnhKOWgwcklERzNBZkJrTlJwVXliYlR6cDRZMm9UR1B2V0Y1aVE9PRgAIAAoADC6kMHjloz1AjjmhK+e1i9A5oSvntYvShx5SWVJVENraytpZFFiMlhRZFppeGIwWG9URms9WiIiIP///91WV0kxU0dKMWZ4SWE3VkYvWHZsbmZ5RkpERzQ9ZTNh1C4S7gEICxLpAQocRklsZXF4RmhyV1A2dDVUaDdNY0N1R2tYZzNBPRJmWjpBRHF0QVp5cWNNblFKOUMxbWIxRTIrdGZiS0xldVBoME85WHdtZTJOVDVSbCthM1JhQThBMWIxY1J3ZjUwbmNSWmtKOFJPekN1QVNpQ2J4NFVXY2EycnlGcC9PTzhtYTdOZz09GAAgACgAMJvi7qf3uPYCONDJofq8L0DQyaH6vC9KHHR1VFhDLy9JNnZaNCtMbWxtdzM3dU11ZFJWVT1aISIf///dQThydW1DRGp3SG5scTUxZ0g2WkF2WmFncTZjPWUo0OGpEq4CCCESqQIKHDlaNmJ4WE8va1ZRZVdtZ1hsc0VlWDMxSTdXST0SpgFaOkFEcXRBWnhWZCtHRG9vQWNNZU81Q1lvVjg0OHNkR0loNWxXRHhrN1NSb1Y5VGlQOFV1bGtCU1FBblczcXhHbUdNY3AxQXp1cG5ZWVpMMmo2enhCT3doL20rRk52aFZNWWJseEFpclUvaGhYVWt2UXN6OGlBWFpPTFNtK2dPMVV6VkNLcHp4cC80VnZ0V2FjZUgwODc3dWgrcHNaNEhWWERjdz09GAAgACgAMLqQweOWjPUCOPbakqDaLkD22pKg2i5KHHZPQ2h1M04zU0dDK2dieW41ZXRpcUNONGc5dz1aICIe//swRHQyT0pGZjJITjRKTEtDUnArV081L2dDZ009ZYMDGeQS9AEIHBLvAQocZnM5UGxhSjVER0NLZkhyK28yNXdaeXBNS0E4PRJmWjpBRHF0QVp5cWNNblFKOUMxbWIxRTIrdGZiS0xlSUpkYi94Q25sZHlvN2RnZE1XTXY2S1FzMDYvRjBabVExTTNmaFFmQmZwR09NS2dNaWlyTkIrVXRnVW5PeDE4YjBUS2gzQT09GAAgACgAMK36qNvX4fUCOPvmld7rL0D75pXe6y9KHDRad0dESVlaM2tjakhERFFTSjBQcnl6Z2dvVT1aJyIl/////wAAAATUbUxmZnFOem9MZldlRkNBcER0NUhKVDlaSkhRPWWgpI6/Eu8BCBYS6gEKHHRkbFZJYmd2SHNVSlVIbGNMTHZqSnpIOUQ5UT0SZlo6QURxdEFaeXFjTW5RSjlDMW1iMUUyK3RmYktMZThtUGZSN0Y2WFpTYWZIN2t2RVpjT3dTemt6aUF5ZmhtY0FIZHhKdzRlODZoUXpUY09veE5lVGVudE5XN2JGNm5Cc25DV1E9PRgAIAAoADC6kMHjloz1Ajju56+e1i9A7uevntYvShxoOURVYkltQUoxazN6LzZHU3lNQTdOSjlmT2s9WiIiIP////doY3ZIOC9zSXlrZFVrQ2hGb241Q2VwNWVodVU9ZTNh1C4S7gEIJhLpAQocc0xEenUwVzlHN0o0YjRJVkNjSUdUTmN5byt3PRJmWjpBRHF0QVp5cWNNblFKOUMxbWIxRTIrdGZiS0xlK1pzNjJUR3p6VCtiallnem9XRkQ0ZUM4bVlVYTJha0JQRkVORjBibkVrN3l3ZVo2VlFGOHlJRXYwUXRUYUVicXVubHI3dz09GAAgACgAMLqQweOWjPUCOJ6G76OrL0Cehu+jqy9KHHVTTUxVNjFHSit3Y1kreEkyL0RST2YySE15ND1aISIf///dMGtQMFo5RkhSQ2l4RUVwN3ZRNkZDTUFsQ1JNPWUAAAAAEu8BCBkS6gEKHGlJdVdCYis5TlU1aFpic0J6TnhiM2FLVG81Zz0SZlo6QURxdEFaeXFjTW5RSjlDMW1iMUUyK3RmYktMZUtDTDhSbXlRR2NCdGNOUGF1OWFYeWRSc2ZBUmllU1pMc053RE9mZnhnbDNBcmQ1TnJTZUVtdHk4MTRUbERUUzZCRDRoQ0E9PRgAIAAoADC6kMHjloz1Ajjj4LCe1i9A4+CwntYvShw3RHRJcHMyU1NhQXdXbXlwOGNyeDhwVkVva3c9WiIiIP////5GNEJZYVcrMDJxMGNwNUQ1bkp3MVNWWVFWTE09ZRMgDlQSrgIIIxKpAgocaElYOVVvbkV6bStCMHR1bW41YlRodUlsNEhzPRKmAVo6QURxdEFaeFZkK0dEb29BY01lTzVDWW9WODQ4c3lKRTBBWkdJUC8zeTUxY1FQZVNNNnM3eTV0c2NpYlNsVHVsR0VCOEdxMzY1dnVkc3JBcEYvUHFlQk1nTFd6K0xMdFpzWlBzaTJBV2RjNjlyeDN2WkNsb0FoaEpPM3FsdDZ0Q2RpWVh4R2oxQWREdG5DSHlBN3JZVG15Wkh3T1RGWHc4aU9nPT0YACAAKAAwupDB45aM9QI4zaa94qAvQM2mveKgL0ocZXB1OFFrZGc2eDBMclhsUzlCQjBOZ25IZXgwPVogIh7//itLWGxiYWtWdmxoSXFhaWJqcGF1SUhPWjErYz1l8mtJaBKuAggJEqkCChw1QyttaDB5NTFRY1BJQXFQTkdZWWVTK3RxS0E9EqYBWjpBRHF0QVp4VmQrR0Rvb0FjTWVPNUNZb1Y4NDhzZEdJaDVsV0R4azdTUm9WOVRpUDhVcHZVR2tEWTBMYnlldm0xMDZET0t5MThtT25XTzRTZmVjNVVCdXU1ZnZMYjl2YnRyYktPa1JXcmN1d1VJY1plU25BbGRzUXZNWThOMlh4MmMvRTR4WEI5Q1BscFBXclBkcmFYb0dqdDVoSzFnU09uQXc9PRgAIAIoAjD1krP40pj3AjjWtKf49S5Aocbqk4MwShxFZXBLeXh3YXYrcWVWUU5TRlpIZzlxVmd0R3M9WiAiHv//dTVYYzJCY0owVk9XRmpCbS8yRGFPZTVFVUQ0PWU5op5ZEu8BCBgS6gEKHExmaUs3UEhsMFpPM1ptQVBZN2x0TnJaZGhuVT0SZlo6QURxdEFaeXFjTW5RSjlDMW1iMUUyK3RmYktMZXh2ZDJ5SFdoQk5pTVRoT1YxT3BuNTNnUy9YMS9MQS9pWEswZ2dUOWdkSVp5cjlBTXFwK2VCVG54Vml0cDRJRVIzNTI3T1E9PRgAIAAoADC6kMHjloz1AjiGt7Ce1i9AhrewntYvShxjTmpEbG4wUm1wSHdyLzdXVzNhR3IvcGpuSWc9WiIiIP////1UVXlJcWtuRXl2MGhuS1hsRWFEdXJlbjJTUWs9ZTNh1C4SwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp6TTN0Y3dSRGllTm1xZUdWY0NXZGRpSWtteXpYQ2E2QkxIcUp1WWdQK0tiQnhQOWJQMnRpZnlyKzdmVkFMdHRBNXg1OXJlNjE2QlF6MC83L3NmYmlReUswRHVWUT09GAAgACgAMPi48vbSmPcCOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASrgIIIBKpAgocNkh4SHJWbU83dFU0R1NjdTExblU1UWlESG1NPRKmAVo6QURxdEFaeFZkK0dEb29BY01lTzVDWW9WODQ4c3lKRTBBWkdJUC8zeTUxY1FQZVNNNnBxS3JxeGNmcnJsMUtxZS9wVGJJREpaTFpCNWZzVFdRSTV3OGc4dDRHYkxMZndvcXBEVmdrNklhcUM5N0dKbkRTVlRCZVBZNXRkTzZsSVkyZVU3NVI4Z1QvUkNBRE9kTXRmalJlMmZ1eUowZmR3bmN3PT0YACAAKAAwupDB45aM9QI4r8rjptkuQK/K46bZLkocK3Evb0RSWDV6MkE4QUN3TWE2a0lPYXlvWG9BPVogIh7/92NtQm1FRW1iTzA5UXRxVk1ESkx5a0hib0JwUT1lgIf6BRLvAQgXEuoBChxSSjFuclFBclpUMUFpNm5BbmxMRUs4NGNlc009EmZaOkFEcXRBWnlxY01uUUo5QzFtYjFFMit0ZmJLTGVyUCttMEhvL3lCVnI1ODV1dWgycWd6bHpWU0QxL3pXT3lYMFphK2lSNHQvakUyOWlDY2dMaGZONzUwRk5iZzJ2YUMvVVlnPT0YACAAKAAwupDB45aM9QI4r4awntYvQK+GsJ7WL0ocUFNGb2x5eDRTKzRuajdzWUZmOWZWK01ZVitRPVoiIiD////7aElNa1Q1dFZVTUN4eU5aaTVpcFVpb0phQkFnPWUzYdQuEvQBCB0S7wEKHEhEMEt4U0gyY0ZiWjJtbkVlc1M4cVMwSU42Zz0SZlo6QURxdEFaeXFjTW5RSjlDMW1iMUUyK3RmYktMZW9VVUxkQUwxTXNIbEUyV094SUNnQW1MQi9lemkwZHJwQkJsSjhOMTUwTWpxUWUreDQ1S1pwbzFVL2NJcjZIb0N2Kzc1Unc9PRgAIAAoADDapdv8kJf3Aji5ioD7gjBAuYqA+4IwShwyTStUa0RQVVJZVEx3UkFBQ2JycENWME1UUXM9WiciJf////8AAAAE6kZORThkNmVIc1U2UnVSVFQ4aG1BQmkvSzNkbz1lAAAAABKuAggiEqkCChx2b3Y3SHRvNHMrNDZ0ZTE1YWlDTEEyQ0hrNDQ9EqYBWjpBRHF0QVp4VmQrR0Rvb0FjTWVPNUNZb1Y4NDhzeUpFMEFaR0lQLzN5NTFjUVBlU002Z1FyV1FORmx0YkhQWi9ZTTNjMEQydnpmc3BBUXhzeWxNR1FDVUI4Uy9tdmNrM2FNOTM0WnorVGJFTHR2MDAzeFEzTG9tMmZZSlB0TVpFclhzdWpxMGpIQzd2U0dqWFdBaUFVTE5MN2NHTFc4Rm1LK3c9PRgAIAAoADC6kMHjloz1AjiE/tCWmi9AhP7QlpovShx5cVNDSnVTSFk4WmlqY0VnWWlKT0czNm1Ga3M9WiAiHv/9UEQyU1FTZVZhcW9ZVnRybnA3QlVOSnZNUFRZPWXya0loEu4BCAoS6QEKHGdaMDVPSEdVYW9aMCtRRkpwRUZ0Y04zTXRJRT0SZlo6QURxdEFaeXFjTW5RSjlDMW1iMUUyK3RmYktMZXZhYThWbXA4TXV5N1YvQ2Z4MDZlS1Fha2hjMXpYZTQvUjFNYjBGSVB4T2MvbXAwOTRZVkx3bThwQVcwZFhGSDVpMTZjNkE9PRgAIAAoADDupZutrML1Aji/k4HRvC9Av5OB0bwvShxSVkdCM2Zva2pTQ2F5cTFnVDlBdnlBVFh4Sk09WiEiH///ukJoL2hYTnMyTjdBWHJGYzkybHU1bkhKYXREcz1lANpIjxLuAQgNEukBChxlTEtNMytmTEJPV0FpMmc4QmxsY2ZqSUVTeDQ9EmZaOkFEcXRBWnlxY01uUUo5QzFtYjFFMit0ZmJLTGU2VS85SXV0aGpWODNpc3paWTVlN2p4eGdmbWI2QUhFWG1uZndFOUVmY0RMZW1Mdi9DcWsxRzVPeWRJNGZBVkgvYWhCaUJBPT0YACAAKAAw/OXgxqee9gI4gN+l+70vQIDfpfu9L0ocREoxb1VHampiVWI1K2dUR2ZUa1l4RktUcTJvPVohIh////c4bEtxU2krakFtdi9OZUI0c1hMdWRpT2Z4V289ZQgMSi4SrgIIJBKpAgocSnZob3NWYmJVSVd2NmVMSFFsemg2R3RRWmxjPRKmAVo6QURxdEFaeFZkK0dEb29BY01lTzVDWW9WODQ4c2RHSWg1bFdEeGs3U1JvVjlUaVA4VXZ5WE1qVzUzSzFTS3dQUjE4MVRMUTRmYVlvRG1DTFhwUzZDaTJKeDE1R1ZwM2tlanovSTdyWlNLWUhyU244SDFtakVpazZXN3VjQStQeGt4eGFlQ2daTzNuTU9CNHFpaW1hWldUNFM1VC9SQWpmZ3VnPT0YACAAKAAwupDB45aM9QI4/Yq1haIvQP2KtYWiL0ocVy9wUms4ZDg0aG5HRm44c3drRGhCZzdIeXBBPVogIh7//3RmMTZXemhTQW9SN3FsMUNYWFR4Mno0QXV3UT1lAAAAABKvAgglEqoCChxkbVh6TEdlRU03bTR6VHZ4N29TQnlBbEtpR1E9EqYBWjpBRHF0QVp4VmQrR0Rvb0FjTWVPNUNZb1Y4NDhzeUpFMEFaR0lQLzN5NTFjUVBlU002azg2MSszTTFVdUtnQnpQMm5iNE4wUk5pa2pRRVNvMzYvRFdCMEVrQU16dnRRVXgzeHRxVWxNb3F2YWtHcEJiSlM5WEg5MU1LUm5Sc0k0bVNZTDJ1N3VqVW1td1A4RVlTM3JZQi96dkhsUGFGa0N4NlE9PRgAIAAoADC6kMHjloz1AjjT3qaLpi9A096mi6YvShw4clVUUXhSMEVhdnhsZno2VDk5dWRlbHRLMmM9WiEiH///ukttSkNSQ2JKRm5uWFFUZDRDVmp3Y2xlU29UUT1lEyAOVDABOAA=",
+   "version": 1
+}
