@@ -1,7 +1,16 @@
 #! /bin/bash
 
-configDirs=("alacritty" "i3" "i3status" "nitrogen" "ulauncher")
-configFiles=(".xinitrc")
+configDirs=(
+	"alacritty" 
+	"i3" 
+	"i3status" 
+	"nitrogen" 
+	"ulauncher"
+)
+
+configFiles=(
+	".xinitrc"
+)
 
 mkdir -p .config-files
 
