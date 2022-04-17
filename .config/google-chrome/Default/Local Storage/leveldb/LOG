@@ -1,6 +1,0 @@
-2022/04/17-10:39:02.009 3 Reusing MANIFEST /home/lukasz/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2022/04/17-10:39:02.010 3 Recovering log #9
-2022/04/17-10:39:02.012 3 Reusing old log /home/lukasz/.config/google-chrome/Default/Local Storage/leveldb/000009.log 
-2022/04/17-10:43:07.506 6 Level-0 table #13: started
-2022/04/17-10:43:07.512 6 Level-0 table #13: 94743 bytes OK
-2022/04/17-10:43:07.515 6 Delete type=0 #9
